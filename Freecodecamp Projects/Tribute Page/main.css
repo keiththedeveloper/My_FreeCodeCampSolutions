@@ -1,0 +1,30 @@
+#title{
+ 
+ text-align: center;   
+}
+#img-div{
+    align-items: center;
+    float:center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: white;
+}
+#image{
+    align-self:center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+    width: auto;
+}
+#img-caption{
+    display: block;
+    text-align: center;
+}
+body{
+    background-color:#E0E0E0;
+}
+
+#tribute-info{
+align-items: center;
+}
